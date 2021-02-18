@@ -527,8 +527,8 @@ msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the combatants is slain, or 3 rounds of attacks have occurred."
 msgstr ""
-"Může se použít ofenzivně nebo defenzivně a boj trvá tak dlouho, dokud jeden "
-"z protivníků nezemře, nebo do počtu 3 kol útoků."
+"Ať už se použije ofenzivně nebo defenzivně, boj trvá tak dlouho, dokud jeden "
+"z protivníků nezemře, nebo do počtu 3 útoků."
 
 #. [damage]: id=burning light
 #: Towards_the_Light\units\Jolla\Crusader.cfg:321
