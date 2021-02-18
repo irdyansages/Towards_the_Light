@@ -596,7 +596,7 @@ msgid ""
 "heal wounded allies."
 msgstr ""
 "Některé čarodějky učednice jsou k přijetí na akademie vybrány proto, aby "
-"studovaly kouzlo světla. Po ukončení studia se stávají adeptkami. Tyto "
+"studovaly magii světla. Po ukončení studia se stávají adeptkami. Tyto "
 "magyně dovedou přivolat Světlo ve formě energetických koulí a jsou schopny "
 "zraněné spojence snadno uzdravit."
 
