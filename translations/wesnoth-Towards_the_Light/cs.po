@@ -97,7 +97,7 @@ msgstr ""
 "často mi to připomínali. Poprvé bylo hezké to slyšet, ale po čase to začalo "
 "být trochu nepříjemné, protože jsem je nechtěla zklamat... Měla jsem v "
 "úmyslu pomocí znalostí a schopností, které zde získám, pomáhat lidem v mém "
-"rodném město. Ale kdo ví, co se stane..."
+"rodném městě. Ale kdo ví, co se stane..."
 
 #. [part]
 #: Towards_the_Light\macros\story.cfg:11
