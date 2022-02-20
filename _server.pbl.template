@@ -8,3 +8,11 @@ title="Towards the Light"
 type="campaign"
 version="XXX"
 passphrase="XXX"
+tags=wesnoth,isle of alduin,female protagonist,mage protagonist,mages
+[translation]
+  language=cs
+  title="Vstříc Světlu"
+  description="x
+
+(Ve vývoji, 1 hratelný scénář)"
+[/translation]
