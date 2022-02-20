@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Towards_the_Light-1.12\n"
+"Project-Id-Version: Towards_the_Light-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-07-20 10:45 UTC\n"
 "PO-Revision-Date: \n"
