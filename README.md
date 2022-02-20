@@ -5,4 +5,4 @@ User-made campaign for Battle for Wesnoth. It tells the story of young mage Joll
 
 Only first scenario is done.
 
-Designed for Battle for Wesnoth 1.14.0 and later.
+Designed for Battle for Wesnoth 1.16.0 and later.
