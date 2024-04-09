@@ -6,8 +6,7 @@ email="jakub.konecny2@centrum.cz"
 icon="attacks/lightbeam.png"
 title="Towards the Light"
 type="campaign"
-version="XXX"
-passphrase="XXX"
+version="0.1.0"
 tags=wesnoth,isle of alduin,female protagonist,mage protagonist,mages
 [translation]
   language=cs
