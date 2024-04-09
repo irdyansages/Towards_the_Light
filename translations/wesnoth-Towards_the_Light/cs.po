@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Towards_the_Light-1.16\n"
+"Project-Id-Version: Towards_the_Light-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-20 11:36 UTC\n"
+"POT-Creation-Date: 2024-04-09 19:55 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 # Světlu vstříc by bylo víc punk.
 #. [campaign]: id=Towards_the_Light
@@ -45,7 +45,7 @@ msgid "Normal"
 msgstr "Normální"
 
 #. [campaign]: id=Towards_the_Light
-#. [unit_type]: id=Jolla_Crusader, race=human
+#. [unit_type]: id=Jolla_Crusader, race=human, gender=female
 #: Towards_the_Light/_main.cfg:18 Towards_the_Light/units/Jolla/Crusader.cfg:5
 msgid "female^Crusader"
 msgstr "Křižačka"
@@ -56,8 +56,7 @@ msgid "Hard"
 msgstr "Těžká"
 
 #. [campaign]: id=Towards_the_Light
-#. [unit_type]: id=Jolla_Crusader, race=human
-#: Towards_the_Light/_main.cfg:22 Towards_the_Light/units/Jolla/Crusader.cfg:19
+#: Towards_the_Light/_main.cfg:22
 msgid "."
 msgstr "."
 
@@ -228,24 +227,24 @@ msgstr ""
 "jsme jednoho z našich učitelů, který nám řekl, že zítra budeme mít speciální "
 "lekci. Jsme s Klárou dychtivé vědět, jaký druh lekce to bude."
 
-#. [side]: type=Jolla_Apprentice Mage, id=Jolla
+#. [side]: type=Jolla_Apprentice Mage, id=Jolla, gender=female
 #: Towards_the_Light/scenarios/01_Wild_Animals.cfg:18
 msgid "team_name^Students"
 msgstr "Studenti"
 
-#. [side]: type=Jolla_Apprentice Mage, id=Jolla
+#. [side]: type=Jolla_Apprentice Mage, id=Jolla, gender=female
 #: Towards_the_Light/scenarios/01_Wild_Animals.cfg:22
-#: Towards_the_Light/scenarios/02_Portals.cfg:16
-#: Towards_the_Light/scenarios/02_Portals.cfg:20
+#: Towards_the_Light/scenarios/02_Portals.cfg:17
+#: Towards_the_Light/scenarios/02_Portals.cfg:21
 #: Towards_the_Light/scenarios/03_Begining_of_the_Path.cfg:18
 msgid "Jolla"
 msgstr "Jolla"
 
-#. [unit]: type=Apprentice Mage, id=Clare
+#. [unit]: type=Apprentice Mage, id=Clare, gender=female
 #. [side]: type=Apprentice Mage, id=Clare_fake
 #: Towards_the_Light/scenarios/01_Wild_Animals.cfg:41
-#: Towards_the_Light/scenarios/02_Portals.cfg:43
-#: Towards_the_Light/scenarios/02_Portals.cfg:47
+#: Towards_the_Light/scenarios/02_Portals.cfg:44
+#: Towards_the_Light/scenarios/02_Portals.cfg:48
 #: Towards_the_Light/scenarios/03_Begining_of_the_Path.cfg:55
 msgid "Clare"
 msgstr "Klára"
@@ -255,9 +254,10 @@ msgstr "Klára"
 msgid "team_name^Animals"
 msgstr "Zvířata"
 
-#. [side]: type=Arch Mage, id=teacher
+#. [side]: type=Arch Mage, id=teacher, gender=female
+#. [side]: type=Arch Mage, id=teacher, gender=male
 #: Towards_the_Light/scenarios/01_Wild_Animals.cfg:94
-#: Towards_the_Light/scenarios/02_Portals.cfg:114
+#: Towards_the_Light/scenarios/02_Portals.cfg:115
 msgid "team_name^Teacher"
 msgstr "Učitel"
 
@@ -388,36 +388,36 @@ msgstr "Je mi to líto, Jollo."
 #. [side]: type=Apprentice Mage, id=Student1_fake
 #. [side]: type=Apprentice Mage, id=Student2_fake
 #. [side]: type=Apprentice Mage, id=Student3_fake
-#: Towards_the_Light/scenarios/02_Portals.cfg:63
-#: Towards_the_Light/scenarios/02_Portals.cfg:80
-#: Towards_the_Light/scenarios/02_Portals.cfg:97
+#: Towards_the_Light/scenarios/02_Portals.cfg:64
+#: Towards_the_Light/scenarios/02_Portals.cfg:81
+#: Towards_the_Light/scenarios/02_Portals.cfg:98
 msgid "team_name^Student"
 msgstr "Student"
 
 #. [objective]: condition=win
-#: Towards_the_Light/scenarios/02_Portals.cfg:133
+#: Towards_the_Light/scenarios/02_Portals.cfg:134
 msgid "Find a way back to the Academy"
 msgstr "Najdi cestu zpět do Akademie"
 
 #. [objective]: condition=lose
-#: Towards_the_Light/scenarios/02_Portals.cfg:137
+#: Towards_the_Light/scenarios/02_Portals.cfg:138
 msgid "Jolla gets exhausted"
 msgstr "Jolla se vyčerpá"
 
-#. [side]: type=Mage of Light, id=Bennett
+#. [side]: type=Mage of Light, id=Bennett, gender=male
 #: Towards_the_Light/scenarios/03_Begining_of_the_Path.cfg:41
 msgid "Bennett"
 msgstr "Bennett"
 
-#. [unit_type]: id=Jolla_Apprentice Mage, race=human
-#. [female]
+#. [unit_type]: id=Jolla_Apprentice Mage, race=human, gender=female
+#. [female]: gender=female
 #: Towards_the_Light/units/Jolla/Apprentice_Mage.cfg:5
 #: Towards_the_Light/units/human-mages/Apprentice_Mage.cfg:116
 msgid "female^Apprentice Mage"
 msgstr "Čarodějka učednice"
 
-#. [unit_type]: id=Jolla_Apprentice Mage, race=human
-#. [unit_type]: id=Apprentice Mage, race=human
+#. [unit_type]: id=Jolla_Apprentice Mage, race=human, gender=female
+#. [unit_type]: id=Apprentice Mage, race=human, gender=male,female
 #: Towards_the_Light/units/Jolla/Apprentice_Mage.cfg:20
 #: Towards_the_Light/units/human-mages/Apprentice_Mage.cfg:20
 msgid ""
@@ -433,43 +433,67 @@ msgstr ""
 msgid "magic puff"
 msgstr "magický obláček"
 
+#. [unit_type]: id=Jolla_Crusader, race=human, gender=female
+#: Towards_the_Light/units/Jolla/Crusader.cfg:19
+msgid ""
+"After spending her lifetime fighting against evil schemes and scouring "
+"libraries with long forgotten knowledge, this old lady has achieved level of "
+"power never seen before. The years on the battlefield also taught her to "
+"protect her and her brothers and sisters-in-arms from harm. Despite her old "
+"age, she continues to bring light and hope to the world in these troubled "
+"times."
+msgstr ""
+"Poté, co celý život bojovala proti zlým plánům a prohledávala knihovny s "
+"dávno zapomenutými znalostmi, dosáhla tato stará dáma dosud nevídané úrovně "
+"moci. Léta na bitevním poli ji také naučila chránit sebe i své bratry a "
+"sestry ve zbrani před újmou. Navzdory svému stáří nadále přináší světu "
+"světlo a naději v těchto neklidných časech."
+
+#. [special_note]
+#: Towards_the_Light/units/Jolla/Crusader.cfg:21
+msgid ""
+"Compared to other mages, Crusaders have a higher resistance to ‘arcane’ "
+"attacks."
+msgstr ""
+"Oproti ostatním mágům mají křižáci vyšší odolnost vůči „nezemským“ útokům."
+
 #. [advancement]: id=mace
-#: Towards_the_Light/units/Jolla/Crusader.cfg:215
+#: Towards_the_Light/units/Jolla/Crusader.cfg:218
 msgid "better with morning star"
 msgstr "lepší s řemdihem"
 
 #. [advancement]: id=mace_precision
-#: Towards_the_Light/units/Jolla/Crusader.cfg:230
+#: Towards_the_Light/units/Jolla/Crusader.cfg:233
 msgid "more precise with morning star"
 msgstr "přesnější s řemdihem"
 
 #. [advancement]: id=magic
-#: Towards_the_Light/units/Jolla/Crusader.cfg:248
+#: Towards_the_Light/units/Jolla/Crusader.cfg:251
 msgid "better with lightbeam"
 msgstr "lepší s paprskem světla"
 
 #. [advancement]: id=healing
-#: Towards_the_Light/units/Jolla/Crusader.cfg:263
+#: Towards_the_Light/units/Jolla/Crusader.cfg:266
 msgid "female^able to heal allies more"
 msgstr "schopná více léčit spojence"
 
 #. [advancement]: id=health
-#: Towards_the_Light/units/Jolla/Crusader.cfg:285
+#: Towards_the_Light/units/Jolla/Crusader.cfg:288
 msgid "more healthy"
 msgstr "zdravější"
 
 #. [advancement]: id=divinerage
-#: Towards_the_Light/units/Jolla/Crusader.cfg:299
+#: Towards_the_Light/units/Jolla/Crusader.cfg:302
 msgid "female^able to unleash (and control) her anger in battle"
 msgstr "schopná uvolnit (a kontrolovat) svůj hněv v bitvě"
 
 #. [effect]: type=fire
-#: Towards_the_Light/units/Jolla/Crusader.cfg:306
+#: Towards_the_Light/units/Jolla/Crusader.cfg:309
 msgid "divine rage"
 msgstr "svatý hněv"
 
 #. [berserk]: id=berserk
-#: Towards_the_Light/units/Jolla/Crusader.cfg:316
+#: Towards_the_Light/units/Jolla/Crusader.cfg:319
 msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the combatants is slain, or 3 rounds of attacks have occurred."
@@ -478,23 +502,23 @@ msgstr ""
 "z protivníků nezemře, nebo do počtu 3 útoků."
 
 #. [damage]: id=burning light
-#: Towards_the_Light/units/Jolla/Crusader.cfg:321
+#: Towards_the_Light/units/Jolla/Crusader.cfg:324
 msgid "burning light"
 msgstr "spalující světlo"
 
 #. [damage]: id=burning light
-#: Towards_the_Light/units/Jolla/Crusader.cfg:322
+#: Towards_the_Light/units/Jolla/Crusader.cfg:325
 msgid "This attack does more damage on chaotic units."
 msgstr "Tento útok působí chaotickým jednotkám větší škodu."
 
 #. [dummy]: id=scourge
-#: Towards_the_Light/units/Jolla/Crusader.cfg:332
-#: Towards_the_Light/units/Jolla/Crusader.cfg:333
+#: Towards_the_Light/units/Jolla/Crusader.cfg:335
+#: Towards_the_Light/units/Jolla/Crusader.cfg:336
 msgid "scourge"
 msgstr "metla"
 
 #. [dummy]: id=scourge
-#: Towards_the_Light/units/Jolla/Crusader.cfg:334
+#: Towards_the_Light/units/Jolla/Crusader.cfg:337
 msgid ""
 "This attack causes its targets to take small but continuous damage. Affected "
 "units lose 4 HP every turn until they are cured. This curse can kill its "
@@ -505,36 +529,36 @@ msgstr ""
 "kletba může své cíle zabít."
 
 #. [advancement]: id=divinerage2
-#: Towards_the_Light/units/Jolla/Crusader.cfg:345
+#: Towards_the_Light/units/Jolla/Crusader.cfg:348
 msgid "female^able to better control her anger in battle"
 msgstr "schopná lépe kontrolovat svůj hněv v bitvě"
 
 #. [advancement]: id=movement
-#: Towards_the_Light/units/Jolla/Crusader.cfg:364
+#: Towards_the_Light/units/Jolla/Crusader.cfg:367
 msgid "faster"
 msgstr "rychlejší"
 
 #. [advancement]: id=shield
-#: Towards_the_Light/units/Jolla/Crusader.cfg:378
+#: Towards_the_Light/units/Jolla/Crusader.cfg:381
 msgid "female^able to make allies resist damage better (20% to resistances)"
 msgstr "schopná učinit spojence odolnější vůči poškození (20 % k odolnostem)"
 
 #. [advancement]: id=shield2
-#: Towards_the_Light/units/Jolla/Crusader.cfg:400
+#: Towards_the_Light/units/Jolla/Crusader.cfg:403
 msgid "female^able to make allies resist damage better (25% to resistances)"
 msgstr "schopná učinit spojence odolnější vůči poškození (25 % k odolnostem)"
 
 #. [advancement]: id=resist_arcane
-#: Towards_the_Light/units/Jolla/Crusader.cfg:422
+#: Towards_the_Light/units/Jolla/Crusader.cfg:425
 msgid "female^better protected from arcane damage (10% better resistance)"
 msgstr "lépe chráněná proti poškození nezemským útokem (o 10 % vyšší odolnost)"
 
-#. [unit_type]: id=Jolla_Adept of Light, race=human
+#. [unit_type]: id=Jolla_Adept of Light, race=human, gender=female
 #: Towards_the_Light/units/Jolla/Mage_Adept_of_Light.cfg:5
 msgid "female^Adept of Light"
 msgstr "Adeptka Světla"
 
-#. [unit_type]: id=Jolla_Adept of Light, race=human
+#. [unit_type]: id=Jolla_Adept of Light, race=human, gender=female
 #: Towards_the_Light/units/Jolla/Mage_Adept_of_Light.cfg:19
 msgid ""
 "Certain female mage apprentices are chosen from admission into the academies "
@@ -552,7 +576,7 @@ msgstr ""
 msgid "aura blast"
 msgstr "výbuch aury"
 
-#. [unit_type]: id=Ram, race=animal
+#. [unit_type]: id=Ram, race=monster
 #: Towards_the_Light/units/animals/Ram.cfg:4
 msgid "Ram"
 msgstr "Beran"
@@ -562,12 +586,12 @@ msgstr "Beran"
 msgid "Horns"
 msgstr "rohy"
 
-#. [unit_type]: id=Tusklet, race=animal
+#. [unit_type]: id=Tusklet, race=monster
 #: Towards_the_Light/units/animals/Tusklet.cfg:4
 msgid "Tusklet"
 msgstr "Lončák"
 
-#. [unit_type]: id=Tusklet, race=animal
+#. [unit_type]: id=Tusklet, race=monster
 #: Towards_the_Light/units/animals/Tusklet.cfg:32
 msgid ""
 "Young tuskers are as notoriously bad-tempered as the adults of the species, "
@@ -583,7 +607,7 @@ msgstr ""
 msgid "Tusks"
 msgstr "kly"
 
-#. [unit_type]: id=Apprentice Mage, race=human
+#. [unit_type]: id=Apprentice Mage, race=human, gender=male,female
 #: Towards_the_Light/units/human-mages/Apprentice_Mage.cfg:5
 msgid "Apprentice Mage"
 msgstr "Mág učedník"
@@ -594,7 +618,7 @@ msgid "Blacksmith"
 msgstr "Kovář"
 
 #. [unit_type]: id=Blacksmith, race=human
-#: Towards_the_Light/units/human-peasants/Blacksmith.cfg:19
+#: Towards_the_Light/units/human-peasants/Blacksmith.cfg:18
 msgid ""
 "Blacksmiths are not soldiers, but their strength and dexterity with hammers "
 "make them rather good warriors."
@@ -603,14 +627,14 @@ msgstr ""
 "poměrně dobré válečníky."
 
 #. [chance_to_hit]: id=dexterity 50
-#: Towards_the_Light/units/human-peasants/Blacksmith.cfg:32
-#: Towards_the_Light/units/human-peasants/Blacksmith_Young.cfg:32
+#: Towards_the_Light/units/human-peasants/Blacksmith.cfg:31
+#: Towards_the_Light/units/human-peasants/Blacksmith_Young.cfg:31
 msgid "dexterity 50%"
 msgstr "obratnost 50 %"
 
 #. [chance_to_hit]: id=dexterity 50
-#: Towards_the_Light/units/human-peasants/Blacksmith.cfg:33
-#: Towards_the_Light/units/human-peasants/Blacksmith_Young.cfg:33
+#: Towards_the_Light/units/human-peasants/Blacksmith.cfg:32
+#: Towards_the_Light/units/human-peasants/Blacksmith_Young.cfg:32
 msgid ""
 "This attack always has a 50% chance to hit regardless of the defensive "
 "ability of the unit being attacked."
@@ -642,12 +666,12 @@ msgstr ""
 msgid "Young Blacksmith"
 msgstr "Mladý kovář"
 
-#. [unit_type]: id=Worker, race=human
+#. [unit_type]: id=Worker, race=human, gender=male
 #: Towards_the_Light/units/human-peasants/Worker.cfg:5
 msgid "Worker"
 msgstr "Dělník"
 
-#. [unit_type]: id=Worker, race=human
+#. [unit_type]: id=Worker, race=human, gender=male
 #: Towards_the_Light/units/human-peasants/Worker.cfg:19
 msgid "Workers are some kind of peasants skilled at many things."
 msgstr "Dělníci patří mezi prostý lid a jsou nadaní v mnoha věcech."
