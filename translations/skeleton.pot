@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Towards_the_Light-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-09 19:55 UTC\n"
+"POT-Creation-Date: 2024-04-10 19:40 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,27 +86,27 @@ msgid ""
 msgstr ""
 
 #. [resistance]: id=shield
-#: Towards_the_Light/macros/abilities.cfg:27
+#: Towards_the_Light/macros/abilities.cfg:28
 msgid "shield "
 msgstr ""
 
 #. [resistance]: id=shield
-#: Towards_the_Light/macros/abilities.cfg:28
+#: Towards_the_Light/macros/abilities.cfg:29
 msgid "female^shield "
 msgstr ""
 
 #. [resistance]: id=shield
-#: Towards_the_Light/macros/abilities.cfg:29
+#: Towards_the_Light/macros/abilities.cfg:30
 msgid "This unit's presence is so glorious that all adjacent allies are hounoured and inspired by them, increasing their resistances by "
 msgstr ""
 
 #. [resistance]: id=shield
-#: Towards_the_Light/macros/abilities.cfg:29
+#: Towards_the_Light/macros/abilities.cfg:30
 msgid "%, up to a maximum of 60%."
 msgstr ""
 
 #. [resistance]: id=shield
-#: Towards_the_Light/macros/abilities.cfg:33
+#: Towards_the_Light/macros/abilities.cfg:34
 msgid " Adjacent allied units have their resistances increased by the sole presence of this unit."
 msgstr ""
 
@@ -273,6 +273,11 @@ msgstr ""
 #. [message]: speaker=unit
 #: Towards_the_Light/scenarios/01_Wild_Animals.cfg:301
 msgid "I am sorry, Jolla."
+msgstr ""
+
+#. [scenario]: id=02_Portals
+#: Towards_the_Light/scenarios/02_Portals.cfg:5
+msgid "Portals"
 msgstr ""
 
 #. [side]: type=Apprentice Mage, id=Student1_fake
