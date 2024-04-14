@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Towards_the_Light-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-10 19:40 UTC\n"
+"POT-Creation-Date: 2024-04-14 19:42 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -141,7 +141,7 @@ msgstr ""
 #: Towards_the_Light/macros/story.cfg:24
 msgid ""
 "16 VII, 556 YW:\n"
-"Oh, that was a really hard week. I had almost no time to rest and keep a journal because we had to study a lot. But it was worth it as I learnt a lot of new things. They let us rest for today. After finishing the entry, I am going to read some poems and after that I will meet with Clare. We talk a lot and always she amazes me with her intellect. I firmly believe that she will be the greatest wizard of our generation."
+"Oh, that was a really hard week. I had almost no time to rest and keep a journal because we had to study a lot. But it was worth it as I learned a lot of new things. They let us rest for today. After finishing the entry, I am going to read some poems and after that I will meet with Clare. We talk a lot and always she amazes me with her intellect. I firmly believe that she will be the greatest wizard of our generation."
 msgstr ""
 
 #. [part]
@@ -257,7 +257,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Towards_the_Light/scenarios/01_Wild_Animals.cfg:280
-msgid "The other apprentices eventually accomplished their task but Jolla never got a chance to fulfil her destiny. After completing her studies, she returned to her home town where she helped other citizens until a disease struck her at the age of 33."
+msgid "The other apprentices eventually accomplished their task but Jolla never got a chance to fulfill her destiny. After completing her studies, she returned to her home town where she helped other citizens until a disease struck her at the age of 33."
 msgstr ""
 
 #. [message]: speaker=unit
