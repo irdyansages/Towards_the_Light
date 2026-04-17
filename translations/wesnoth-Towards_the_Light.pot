@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Towards_the_Light-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-14 19:42 UTC\n"
+"POT-Creation-Date: 2026-04-17 17:57 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -336,12 +336,12 @@ msgstr ""
 
 #. [advancement]: id=mace
 #: Towards_the_Light/units/Jolla/Crusader.cfg:218
-msgid "better with morning star"
+msgid "better with flail"
 msgstr ""
 
 #. [advancement]: id=mace_precision
 #: Towards_the_Light/units/Jolla/Crusader.cfg:233
-msgid "more precise with morning star"
+msgid "more precise with flail"
 msgstr ""
 
 #. [advancement]: id=magic
@@ -446,17 +446,17 @@ msgid "Horns"
 msgstr ""
 
 #. [unit_type]: id=Tusklet, race=monster
-#: Towards_the_Light/units/animals/Tusklet.cfg:4
+#: Towards_the_Light/units/animals/Tusklet.cfg:7
 msgid "Tusklet"
 msgstr ""
 
 #. [unit_type]: id=Tusklet, race=monster
-#: Towards_the_Light/units/animals/Tusklet.cfg:32
+#: Towards_the_Light/units/animals/Tusklet.cfg:35
 msgid "Young tuskers are as notoriously bad-tempered as the adults of the species, if a little less of a challenge. But woe betide the unfortunate who comes between a Tusklet and its parents."
 msgstr ""
 
 #. [attack]: type=blade
-#: Towards_the_Light/units/animals/Tusklet.cfg:48
+#: Towards_the_Light/units/animals/Tusklet.cfg:51
 msgid "Tusks"
 msgstr ""
 

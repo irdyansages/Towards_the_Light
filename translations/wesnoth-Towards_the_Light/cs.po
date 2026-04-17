@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Towards_the_Light-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-14 19:42 UTC\n"
+"POT-Creation-Date: 2026-04-17 17:57 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.9\n"
 
 # Světlu vstříc by bylo víc punk.
 #. [campaign]: id=Towards_the_Light
@@ -464,12 +464,12 @@ msgstr ""
 
 #. [advancement]: id=mace
 #: Towards_the_Light/units/Jolla/Crusader.cfg:218
-msgid "better with morning star"
-msgstr "lepší s řemdihem"
+msgid "better with flail"
+msgstr "lepší s řemdlihem"
 
 #. [advancement]: id=mace_precision
 #: Towards_the_Light/units/Jolla/Crusader.cfg:233
-msgid "more precise with morning star"
+msgid "more precise with flail"
 msgstr "přesnější s řemdihem"
 
 #. [advancement]: id=magic
@@ -592,12 +592,12 @@ msgid "Horns"
 msgstr "rohy"
 
 #. [unit_type]: id=Tusklet, race=monster
-#: Towards_the_Light/units/animals/Tusklet.cfg:4
+#: Towards_the_Light/units/animals/Tusklet.cfg:7
 msgid "Tusklet"
 msgstr "Lončák"
 
 #. [unit_type]: id=Tusklet, race=monster
-#: Towards_the_Light/units/animals/Tusklet.cfg:32
+#: Towards_the_Light/units/animals/Tusklet.cfg:35
 msgid ""
 "Young tuskers are as notoriously bad-tempered as the adults of the species, "
 "if a little less of a challenge. But woe betide the unfortunate who comes "
@@ -608,7 +608,7 @@ msgstr ""
 "který vleze mezi lončáka a jeho rodiče."
 
 #. [attack]: type=blade
-#: Towards_the_Light/units/animals/Tusklet.cfg:48
+#: Towards_the_Light/units/animals/Tusklet.cfg:51
 msgid "Tusks"
 msgstr "kly"
 
@@ -680,3 +680,6 @@ msgstr "Dělník"
 #: Towards_the_Light/units/human-peasants/Worker.cfg:19
 msgid "Workers are some kind of peasants skilled at many things."
 msgstr "Dělníci patří mezi prostý lid a jsou nadaní v mnoha věcech."
+
+#~ msgid "better with morning star"
+#~ msgstr "lepší s řemdihem"
